@@ -11,5 +11,5 @@ while True:
         ligar_luz = False
     if interrupetor_A ^interrupetor_B:
         ligar_luz = True
-     else:
+    else:
         ligar_luz = False

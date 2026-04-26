@@ -6,4 +6,7 @@ config = {
     "velocidade": 3,
     "max": 5
 }
-{"bateria:"}}
+    "bateria:"{
+"nivel de carga": 100,}
+}
+
